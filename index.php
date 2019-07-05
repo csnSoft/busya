@@ -12,16 +12,15 @@ define('APP_REG_URL', 'https://app.insystema.ru/application_type_3/index.php'); 
  */
 spl_autoload_register(function ($class) {
     $path = explode('\\', $class);
-    //удалим из пути 'CNS' и 'b24_application'
+    //удалим из пути 'CNS' и 'busya'
     unset($path[0], $path[1]);
     $class = implode('/', $path) . '.php';
     require_once($class);
 });
 
-use CSN\b24_application\classes;
-use CSN\b24_application\classes\auth;
-use CSN\b24_application\classes\helpers;
-use CSN\b24_application\classes\rest_exe;
+use CSN\busya\classes;
+use CSN\busya\classes\auth;
+
 
 
 // имитация больших запросов

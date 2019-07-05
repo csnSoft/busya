@@ -7,7 +7,7 @@
  */
 
 
-namespace CSN\b24_application\classes\helpers;
+namespace CSN\busya\classes\helpers;
 /**
  * Class FileHelper
  * @package CSN\b24_application\classes\helpers

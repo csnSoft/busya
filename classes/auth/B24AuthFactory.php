@@ -8,11 +8,11 @@
  * ver 1.0
  */
 
-namespace CSN\b24_application\classes\auth;
+namespace CSN\busya\classes\auth;
 
 /**
  * Class B24AuthFactory
- * @package CSN\b24_application\classes\auth
+ * @package CSN\busya\classes\auth
  */
 class B24AuthFactory
 {

@@ -6,11 +6,11 @@
  * Time: 17:19
  */
 
-namespace CSN\b24_application\classes\rest_exe;
+namespace CSN\busya\classes\rest_exe;
 
 /**+
  * Class BatchMaker
- * @package CSN\b24_application\classes\rest_exe
+ * @package CSN\busya\classes\rest_exe
  */
 class BatchMaker
 {

@@ -6,7 +6,7 @@
  * Time: 17:29
  */
 
-namespace CSN\b24_application\classes\auth;
+namespace CSN\busya\classes\auth;
 
 class B24Auth
 {

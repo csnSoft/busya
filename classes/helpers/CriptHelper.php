@@ -6,7 +6,7 @@
  * Time: 17:05
  */
 
-namespace CSN\b24_application\classes\helpers;
+namespace CSN\busya\classes\helpers;
 
 
 /*

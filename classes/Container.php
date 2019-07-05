@@ -6,7 +6,7 @@
  * Time: 11:15
  */
 
-namespace CSN\b24_application\classes;
+namespace CSN\busya\classes;
 
 class Container
 {

@@ -6,7 +6,7 @@
  * Time: 11:13
  */
 
-namespace CSN\b24_application\classes\rest_exe;
+namespace CSN\busya\classes\rest_exe;
 
 
 class B24ListGetter
